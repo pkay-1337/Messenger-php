@@ -35,7 +35,6 @@ NOTE :
       +-------+--------------+------+-----+---------+-------+
       4 rows in set
 Should Work Fine
-    
-
+There are a lot of BUGS and This is in no way secure implementation of a messeging system. I KNOW
 
     
